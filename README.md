@@ -27,7 +27,7 @@ $ tsx .
 **You can also use [codesandbox](https://codesandbox.io/dashboard/recent) to start the cloner**
 ## Termux/Mobile
 ```Termux/moblie
-$ git clone https://github.com/devrock07/rock-cloner.git
+$ git clone https://github.com/kkara9009/unixx-cloner.git
 $ cd unixx-cloner
 $ npm i
 $ npm i -g tsx
