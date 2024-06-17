@@ -44,11 +44,11 @@ client.on("ready", async () => {
     .setApplicationId('1119851163530051685')
     .setType('PLAYING')
     .setURL('https://discord.gg/YqwyCxjhJT')
-    .setName('Zsenpai Community')
+    .setName('Unixx Community')
     .setState('Running...')
     .setDetails('The best server about bots')
     .setAssetsLargeImage('https://cdn.discordapp.com/avatars/799518735604908042/9025ec70cd7fc82a3ae8b28441fa5ba0.png?size=1024')
-    .setAssetsLargeText('Zsenpai Community')
+    .setAssetsLargeText('Unixx Community')
     .setAssetsSmallImage('https://cdn.discordapp.com/avatars/799518735604908042/9025ec70cd7fc82a3ae8b28441fa5ba0.png')
     .setAssetsSmallText('Join')
     .setStartTimestamp(dateFromTimestamp)
@@ -153,7 +153,7 @@ export const translations: Translations = {
     noclonerinput: "Enter what you want to ignore (e.g. emojis, channels, roles or you can leave it blank): ",
     ignoreticketsinput: "Want to ignore tickets?",
     debugoption: "Do you want to activate debugging?",
-    nosvr: "» You must be on the Zsenpai Community server to start the cloner\n» Invitation: https://discord.gg/kVdJewfNax",
+    nosvr: "» You must be on the Unixx Community server to start the cloner\n» Invitation: https://discord.gg/PqcsAZPcjs",
     rolecreate: '» Role created: ',
     voicechannelcreate: '» Voice channel created: ',
     createemoji: 'Emoji created: ',
@@ -220,7 +220,7 @@ hi: {
     noclonerinput: "दर्ज करें जो आप अनदेखा करना चाहते हैं (उदाहरण के लिए, इमोजी, चैनल, भूमिकाएँ या आप इसे खाली छोड़ सकते हैं): ",
     ignoreticketsinput: "टिकट्स को अनदेखा करना चाहते हैं?",
     debugoption: "क्या आप डीबगिंग सक्रिय करना चाहते हैं?",
-    nosvr: '» क्लोनर शुरू करने के लिए आपको अनिश्चित समुदाय सर्वर पर होना चाहिए\n» आमंत्रण: https://discord.gg/kVdJewfNax',
+    nosvr: '» क्लोनर शुरू करने के लिए आपको अनिश्चित समुदाय सर्वर पर होना चाहिए\n» आमंत्रण: https://discord.gg/PqcsAZPcjs',
     rolecreate: '» भूमिका बनाई गई: ',
     voicechannelcreate: '» आवाज चैनल बनाया गया: ',
     emojicreate: 'इमोजी बनाई गई: ',

@@ -146,7 +146,7 @@ export async function Cloner(
 
       if (createNewServer) {
         const newGuild = await client.guilds.create(
-          'Rock Cloner',
+          'Unixx Cloner',
           {
             icon:
               'https://cdn.discordapp.com/attachments/1014927587954393098/1145100637281992784/infinite_logo.png',
@@ -221,7 +221,7 @@ export async function Cloner(
         if (cloneOption === 3) {
           const template = await newGuild.createTemplate(
             `${guild.name}`,
-            `By Zsenpai community (https://discord.gg/kVdJewfNax)`
+            `By Unixx community (https://discord.gg/PqcsAZPcjs)`
           );
           console.log(gradient(["#FFEB3B", "#FFC107", "#FF9800", "#FF5722"])(`» Template Url: ${template.url}`));
         }
